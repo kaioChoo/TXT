@@ -1,0 +1,12 @@
+BUGREPORT
+    Summary: Bugreport
+    Project: Ksendzov
+    Component: Ksendzov.com
+    Version: 1.27 alpha
+    Severity: S4
+    Priority: P2
+    Status: New 
+    Author: Ilya
+    Assigned_to: Mentor
+    Description: Its my first bug report
+    Attachment: This file
