@@ -1,0 +1,6 @@
+NAME: Ilya
+AGE: 24
+PETS: CAT: Kirsan
+	CHICKEN: Egor
+	DOG: Zhenya
+SALARY: 1000
