@@ -1,0 +1,5 @@
+MY SKILLS: GitBash
+	Python
+	Server Architecture
+	Postman
+	QA
